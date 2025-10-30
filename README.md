@@ -92,17 +92,7 @@ Sözleşme adresinizi arama kutusuna yapıştırarak görüntüleyebilirsiniz.
 
 ---
 
-### 7. Sözleşme ile Etkileşim
-
-Remix → Deployed Contracts → HelloArchitect
-
-* getGreeting() → mevcut mesajı görüntüler
-* setGreeting("Yeni mesaj") → mesajı değiştirir
-* Değişiklik event olarak kaydedilir
-
----
-
-### 8. Kaynak Kod Doğrulama (Verify & Publish)
+### 7. Kaynak Kod Doğrulama (Verify & Publish)
 
 [https://testnet.arcscan.app](https://testnet.arcscan.app) üzerinde sözleşme sayfasına gidin.
 "Verify & Publish Contract" seçeneğine tıklayın.
